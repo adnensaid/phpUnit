@@ -1,0 +1,17 @@
+{
+    "name": "macbook/dojo",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adnensaid",
+            "email": "adnensaid83@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
